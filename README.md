@@ -266,10 +266,10 @@ When I'm not coding, I create technical content on YouTube, contribute to open-s
 <table align="center">
 <tr>
 <td align="center">
-<a href="mailto:dhirajdhoni97@gmail.com">
+<a href="mailto:engineersdhiraj@gmail.com">
 <div style="background: #0d1117; padding: 15px; border-radius: 10px; border: 1px solid #30363d; width: 150px;">
 <strong style="color: #58a6ff;">📧 Email</strong><br>
-<small style="color: #8b949e;">dhirajdhoni97@gmail.com</small>
+<small style="color: #8b949e;">engineersdhiraj@gmail.com</small>
 </div>
 </a>
 </td>
